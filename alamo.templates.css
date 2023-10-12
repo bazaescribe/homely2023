@@ -1,0 +1,29 @@
+.service-tile{
+    /* this */
+}
+
+.service-tile .photo{
+    height: 30rem;
+    background: red;
+}
+
+.service-tile .photo img{
+    width: 100%; /* Make the image width 100% of its parent's width */
+    height: 100%; /* Make the image height 100% of its parent's height */
+    object-fit: cover; /* Maintain the image's aspect ratio and cover the entire parent */
+}
+
+.card.wide{
+    background: green;
+}
+
+.card.wide .photo{
+    max-height: 480px;
+    overflow: hidden;
+}
+
+.card.wide .photo img{
+    width: 100%; /* Make the image width 100% of its parent's width */
+    height: 100%; /* Make the image height 100% of its parent's height */
+    object-fit: cover; /* Maintain the image's aspect ratio and cover the entire parent */
+}

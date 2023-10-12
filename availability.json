@@ -1,0 +1,231 @@
+{
+    "2023-07-23": {
+        "shifts": {
+          "morning": {
+            "keepers": 30,
+            "available": 17,
+            "booked": 13
+          },
+          "afternoon": {
+            "keepers": 25,
+            "available": 25,
+            "booked": 0
+          },
+          "full-time": {
+            "keepers": 20,
+            "available": 5,
+            "booked": 15
+          }
+        }
+      },
+      "2023-07-24": {
+        "shifts": {
+          "morning": {
+            "keepers": 30,
+            "available": 10,
+            "booked": 20
+          },
+          "afternoon": {
+            "keepers": 25,
+            "available": 15,
+            "booked": 10
+          },
+          "full-time": {
+            "keepers": 20,
+            "available": 5,
+            "booked": 15
+          }
+        }
+      },
+      "2023-07-25": {
+      "shifts": {
+        "morning": {
+          "keepers": 30,
+          "available": 0,
+          "booked": 30
+        },
+        "afternoon": {
+          "keepers": 25,
+          "available": 15,
+          "booked": 10
+        },
+        "full-time": {
+          "keepers": 20,
+          "available": 5,
+          "booked": 15
+        }
+      }
+    },
+    "2023-07-26": {
+      "shifts": {
+        "morning": {
+          "keepers": 40,
+          "available": 20,
+          "booked": 20
+        },
+        "afternoon": {
+          "keepers": 35,
+          "available": 10,
+          "booked": 25
+        },
+        "full-time": {
+          "keepers": 30,
+          "available": 15,
+          "booked": 15
+        }
+      }
+    },
+    "2023-07-27": {
+      "shifts": {
+        "morning": {
+          "keepers": 50,
+          "available": 30,
+          "booked": 20
+        },
+        "afternoon": {
+          "keepers": 45,
+          "available": 20,
+          "booked": 25
+        },
+        "full-time": {
+          "keepers": 40,
+          "available": 10,
+          "booked": 30
+        }
+      }
+    },
+    "2023-07-28": {
+      "shifts": {
+        "morning": {
+          "keepers": 35,
+          "available": 15,
+          "booked": 20
+        },
+        "afternoon": {
+          "keepers": 30,
+          "available": 10,
+          "booked": 20
+        },
+        "full-time": {
+          "keepers": 25,
+          "available": 5,
+          "booked": 20
+        }
+      }
+    },
+    "2023-07-29": {
+      "shifts": {
+        "morning": {
+          "keepers": 45,
+          "available": 20,
+          "booked": 25
+        },
+        "afternoon": {
+          "keepers": 40,
+          "available": 15,
+          "booked": 25
+        },
+        "full-time": {
+          "keepers": 35,
+          "available": 10,
+          "booked": 25
+        }
+      }
+    },
+    "2023-07-30": {
+      "shifts": {
+        "morning": {
+          "keepers": 55,
+          "available": 25,
+          "booked": 30
+        },
+        "afternoon": {
+          "keepers": 50,
+          "available": 20,
+          "booked": 30
+        },
+        "full-time": {
+          "keepers": 45,
+          "available": 15,
+          "booked": 30
+        }
+      }
+    },
+    "2023-07-31": {
+      "shifts": {
+        "morning": {
+          "keepers": 30,
+          "available": 5,
+          "booked": 25
+        },
+        "afternoon": {
+          "keepers": 25,
+          "available": 10,
+          "booked": 15
+        },
+        "full-time": {
+          "keepers": 20,
+          "available": 10,
+          "booked": 10
+        }
+      }
+    },
+    "2023-08-01": {
+      "shifts": {
+        "morning": {
+          "keepers": 40,
+          "available": 20,
+          "booked": 20
+        },
+        "afternoon": {
+          "keepers": 35,
+          "available": 10,
+          "booked": 25
+        },
+        "full-time": {
+          "keepers": 30,
+          "available": 15,
+          "booked": 15
+        }
+      }
+    },
+    "2023-08-02": {
+      "shifts": {
+        "morning": {
+          "keepers": 50,
+          "available": 30,
+          "booked": 20
+        },
+        "afternoon": {
+          "keepers": 45,
+          "available": 20,
+          "booked": 25
+        },
+        "full-time": {
+          "keepers": 40,
+          "available": 10,
+          "booked": 30
+        }
+      }
+    },
+    "2023-08-03": {
+      "shifts": {
+        "morning": {
+          "keepers": 35,
+          "available": 15,
+          "booked": 20
+        },
+        "afternoon": {
+          "keepers": 30,
+          "available": 10,
+          "booked": 20
+        },
+        "full-time": {
+          "keepers": 25,
+          "available": 5,
+          "booked": 20
+        }
+      }
+    }
+  }
+  

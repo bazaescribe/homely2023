@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="alamo.css">
+    <script src="widgets.js"></script>
+</head>
+<body onload="createDays()">
+    <nav>
+        <div id="left" class="d-flex flex-direction-row gap-4">
+            <img src="img/brand/homely-regular.png" alt="Homely Logo">
+            <a href="#" class="btn btn-third">Para oficinas</a>
+            <a href="#" class="btn btn-third">Quiero trabajar</a>
+        </div>
+        <div id="left" class="d-flex flex-direction-row gap-4">
+            <a href="#" class="btn btn-second">mis servicios</a>
+            <a href="#" class="btn btn-main">necesito un servicio</a>
+        </div>
+    </nav>
+
+    <section class="container d-flex flex-direction-column py-7 gap-6">
+        <div class="section-title">
+            <h3 class="serif">Configura tu servicio</h3>
+            <p class="caption">Elige como, cuándo y donde recibirás tu servicio cada semana.</p>
+        </div>
+
+        <div class="card action-card p-6 shadow-large-farther d-flex flex-direction-column gap-6">
+
+            <section id="address" class="d-flex flex-direction-column gap-5">
+                <div class="subtitle text-center">
+                    <h5 class="serif">Dirección</h5>
+                    <p class="caption">
+                        Donde se presentará tu keeper para el servicio
+                    </p>
+                </div>
+                <div class="d-grid grid-three-columns">
+                    <div class="grid-item grid-item-span-two-columns">A</div>
+                    <div class="grid-item">A</div>
+                </div>
+                <div id="map" class="bg-gradient-light-2" style="height: 320px;">
+                    Hi
+                </div>
+            </section>
+
+            <section id="configuration" class="d-flex flex-direction-column gap-5">
+                <div class="subtitle text-center">
+                    <h5 class="serif">Fecha y hora</h5>
+                    <p class="caption">
+                        Selecciona el día que comenzaremos y elige uno de los horarios disponibles
+                    </p>
+                </div>
+                <div class="weekly-selector" id="weekly-selector">
+                    <div id="month" class="text-center">Hola mundo</div>
+                    <div id="day-list"></div>
+                </div>
+            </section>
+
+            <section id="availability">
+                <p class="caption text-center text-subtle-dark">Elige una fecha para ver la disponibilidad del día</p>
+                <div id="availability-list"></div>
+            </section>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container d-flex flex-direction-column py-7 gap-6">
+            <img src="img/brand/homely-black.png" alt="homely logo">
+            <menu class="caption">
+                <div class="d-flex flex-direction-column gap-4">
+                    <a href="#">Inicio</a>
+                    <a href="#">Quiero trabajar</a>
+                    <a href="#">Servicios para oficina</a>
+                    <a href="#">aliada.mx</a>
+                    <a href="#">Cobertura</a>
+                </div>
+                <div class="d-flex flex-direction-column gap-4">
+                    <a href="#">Empresa</a>
+                    <a href="#">Reglas de la comunidad</a>
+                    <a href="#">Términos y condiciones</a>
+                    <a href="#">Aviso de privacidad</a>
+                    <a href="#">Blog</a>
+                </div>
+                <div class="d-flex flex-direction-column gap-4">
+                    <a href="#">hola@homely.mx</a>
+                    <a href="#">55 8865 4897</a>
+                </div>
+            </menu>
+            <div class="footer-social">
+                B
+            </div>
+            <p class="small">
+                Álamos, Benito Juárez, CDMX, México 💕
+            </p>
+
+            <p class="small text-subtle-dark">
+                Encuentra expertos que te ayuden con las tareas de limpieza y cuidado general de tu casa u oficina, encuentra en quien confiar.
+                <br>
+                Copyright © 2023 Grupo MICRAVI S.A. de C.V. Todos los derechos reservados. <a href="#">Términos y condiciones</a> | <a href="#">Aviso de privacidad</a> | <a href="#">Reglas de la comunidad</a> 
+            </p>
+        </div>
+    </footer>
+    
+</body>
+</html>
