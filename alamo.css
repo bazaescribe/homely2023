@@ -1295,6 +1295,13 @@ input[type="radio"] {
   display: none;
 }
 
+input[type="text"] {
+  border: 16px;
+  padding: 12px;
+  border: none;
+  background: var(--color-neutral-alpha-dark-05);
+}
+
 .big-btn{
   display: flex;
   height: 120px;
